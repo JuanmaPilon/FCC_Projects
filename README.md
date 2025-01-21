@@ -1,2 +1,3 @@
-# FCC___Web-Responsive
-Course of Free Code Camp about learning Front End technologies. In this course there will be different things builded in HTML and CSS.
+# Free Code Camp
+
+Many projects done with different technologies in order for me to practice and learn them.
